@@ -10,7 +10,7 @@ A recent Computer Engineering graduate with a focus on Front-end development. Po
 * 🖥️  See my portfolio at [My Portfolio](http://portfolio-mu-eosin-12.vercel.app/)
 * ✉️  You can contact me at [nourhan.elsherif20@gmail.com](mailto:nourhan.elsherif20@gmail.com)
 * 🚀  I'm currently working on [Real-Time Whiteboard](http://whiteboard-pearl-seven.vercel.app/)
-* 🤝  I'm open to collaborating on open source / interesting projects.
+* 🤝  I'm open to collaborate on open source / interesting projects.
 * ⚡  I'm currently doing daily LeetCode challenges.
 
 ### Skills
