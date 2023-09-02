@@ -10,7 +10,6 @@ A recent Computer Engineering graduate with a focus on Front-end development. Po
 * 🖥️  See my portfolio at [My Portfolio](http://portfolio-mu-eosin-12.vercel.app/)
 * ✉️  You can contact me at [nourhan.elsherif20@gmail.com](mailto:nourhan.elsherif20@gmail.com)
 * 🚀  I'm currently working on [Real-Time Whiteboard](http://whiteboard-pearl-seven.vercel.app/)
-* 🧠  I'm learning TypeScript.
 * 🤝  I'm open to collaborating on open source / interesting projects.
 * ⚡  I'm currently doing daily LeetCode challenges.
 
@@ -24,7 +23,12 @@ A recent Computer Engineering graduate with a focus on Front-end development. Po
 
 ### Socials
 
-<p align="left"> <a href="https://www.behance.com/nourhan117461" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/nourhan-ashraf" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/nourhan-elsherif/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@nourhan.elsherif" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <p align="left">
+  <a href="https://www.behance.com/nourhan117461" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" alt="Behance">
+  </a> <a href="https://www.github.com/nourhan-ashraf" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>  <a href="https://www.linkedin.com/in/nourhan-elsherif/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn">
+  </a> <a href="http://www.medium.com/@nourhan.elsherif" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
 
@@ -33,3 +37,11 @@ A recent Computer Engineering graduate with a focus on Front-end development. Po
 <a href="http://www.github.com/nourhan-ashraf"><img src="https://github-readme-stats.vercel.app/api?username=nourhan-ashraf&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="nourhan-ashraf's GitHub stats" /></a>
 
 <a href="http://www.github.com/nourhan-ashraf"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nourhan-ashraf&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/nourhan-ashraf/Job-Search" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nourhan-ashraf&repo=Job-Search&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/nourhan-ashraf/Algorithmic-Toolbox" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nourhan-ashraf&repo=Algorithmic-Toolbox&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/nourhan-ashraf/My-Portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nourhan-ashraf&repo=My-Portfolio&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/nourhan-ashraf/fashion-website-project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nourhan-ashraf&repo=fashion-website-project&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div>
