@@ -12,7 +12,6 @@ A recent Computer Engineering graduate with a focus on Front-end development. Po
 * 🚀  I'm currently working on E-Commerce Website
 * 🎨  My last project was [Real-Time Whiteboard](http://whiteboard-pearl-seven.vercel.app/)
 * 🤝  I'm open to collaborate on open source / interesting projects.
-* ⚡  I'm currently studing Frontend Testing.
 
 ### Skills
 
