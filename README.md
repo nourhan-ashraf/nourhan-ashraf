@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-A recent Computer Engineering graduate with a focus on Front-end development. Possessing knowledge in backend development to complement frontend expertise, and a strong background in UI design. Motivated to continuously learn and adapt, actively pursuing new opportunities.
+I'm a Junior Frontend Developer. I also have some understanding of backend development to complement my frontend skills and a solid foundation in UI design. I'm eager to learn and adapt quickly, always eager to take on new opportunities with a positive attitude.
+
 
 * 🌍  I'm based in Cairo, Egypt.
 * 🖥️  See my portfolio at [My Portfolio](http://portfolio-mu-eosin-12.vercel.app/)
 * ✉️  You can contact me at [nourhan.elsherif20@gmail.com](mailto:nourhan.elsherif20@gmail.com)
-* 🚀  I'm currently working on E-Commerce Website
 * 🎨  My last project was [Real-Time Whiteboard](http://whiteboard-pearl-seven.vercel.app/)
 * 🤝  I'm open to collaborate on open source / interesting projects.
 
