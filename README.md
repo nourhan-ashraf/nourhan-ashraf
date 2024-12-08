@@ -4,11 +4,14 @@ Hi, My name is Nourhan
 Frontend Developer
 ------------------
 
-I’m a junior Front-end Developer with almost a year of full-time experience in Angular TS and 3 months of freelancing
-with React JS. I have a solid background in data structures and
-algorithms. Driven by a passion for learning and exploring
-innovative solutions, I’m constantly seeking new opportunities
-for growth.
+Goal-oriented Junior Frontend Engineer with over 1 year of experience building dynamic and responsive web applications.
+Specializing in Angular and React with a strong proficiency in JavaScript, TypeScript, HTML, CSS, and SCSS to create high-quality
+user interfaces. I also have a solid background in data structures and algorithms and basic backend knowledge of Node JS.
+Skilled in refactoring legacy code to improve maintainability and enhance performance. Familiar with tools like Clarity, Highlight,
+GCP, AWS, and Git for seamless project development and deployment. I have experience automating workflows to streamline
+development processes, increase efficiency, and reduce manual errors. Focused on delivering clean, efficient code while continuously
+improving processes. Fast and flexible in transitioning between tools and technology st
+
 
 * 🌍  I'm based in Cairo, Egypt.
 * 🖥️  See my portfolio at [My Portfolio](https://nourhan-elsherif.vercel.app/)
