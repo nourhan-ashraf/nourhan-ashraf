@@ -1,7 +1,7 @@
 Hi, My name is Nourhan
 ========================================================================================================================================
 
-Frontend Developer
+Software Engineer - Frontend
 ------------------
 
 Goal-oriented Junior Frontend Engineer with over 1 year of experience building dynamic and responsive web applications.
